@@ -14,3 +14,6 @@ will look more about me, started to create a branch
 looks i got something in this github
 
 created alhpa branch
+
+onceagain created alpha to check in vs code
+
